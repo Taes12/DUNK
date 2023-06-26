@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+#dunk_header{
+	border-bottom-color: #fa9300;
+	border-bottom-style: solid;
+	padding: 5px;
+}
+
+.nav-link{
+	color:  #fa9300;
+}
+
+#menu_bar.row{
+	margin-left: 25px;
+	
+}
+
+#menu_bar .nav-item{
+	border: 1px solid #fa9300;
+	border-radius: 40px;
+	margin-right: 5px;
+}
+
+.dropdown-item{
+	display: flex row;
+}

@@ -35,7 +35,7 @@
 				<div class="row">
 					<p>
 						<a href="#">
-							<img class="img-fluid" src="./resources/icon/dunk_main_icon.png" width="200px" height="200px">
+							<img class="img-fluid" src="resources/main_img/dunk_main_icon.png" width="200px" height="200px">
 						</a>
 					</p>
 				</div>
@@ -46,7 +46,7 @@
 				<!-- 드롭다운영역 -->
 				  <li class="nav-item dropdown">
 				    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
-				    	<img data-bs-toggle="dropdown" aria-expanded="false" src="./resources/icon/basketballicon.png" width="25px;">
+				    	<img data-bs-toggle="dropdown" aria-expanded="false" src="resources/main_img/basketballicon.png" width="25px;">
 				    </a>
 				    <ul class="dropdown-menu">
 			    	  <li><a class="dropdown-item" href="teamRecruitmentList">팀모집</a></li>
